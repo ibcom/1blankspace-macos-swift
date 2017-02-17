@@ -11,11 +11,14 @@ contacts. The app is written in Swift and acts as an example of how the RPC / RE
 
 ## Documentation
 
-Documentation can be found at [https://matthewspear.github.io/1blankspace-macos](https://matthewspear.github.io/1blankspace-macos/).
+Documentation can be found at [https://github.com/ibcom/1blankspace-macos-swift](https://github.com/ibcom/1blankspace-macos-swift/).
 
 API references are available at [http://mydigitalstructure.com/](http://mydigitalstructure.com/).
 
 ## License
-This project is released under the [MIT license](https://github.com/Matthewspear/1blankspace-macos/blob/master/LICENSE).
+This project is released under the [MIT license](https://github.com/ibcom/1blankspace-macos-swift/blob/master/LICENSE).
+
+## Created By
+This project was creatd by [Matthew Spear](https://github.com/matthewspear)
 
 
